@@ -1,0 +1,93 @@
+[
+    {
+        "model": "acrelog.spray",
+        "pk": 1,
+        "fields": {
+            "powerunit_type": "Hagie STS12"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 2,
+        "fields": {
+            "powerunit_type": NaN
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 3,
+        "fields": {
+            "powerunit_type": "4555"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 4,
+        "fields": {
+            "powerunit_type": "8245R"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 5,
+        "fields": {
+            "powerunit_type": "4240"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 6,
+        "fields": {
+            "powerunit_type": "8R370"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 7,
+        "fields": {
+            "powerunit_type": "Not applicable"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 8,
+        "fields": {
+            "powerunit_type": "Case Magnum"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 9,
+        "fields": {
+            "powerunit_type": "4440"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 10,
+        "fields": {
+            "powerunit_type": "Gator"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 11,
+        "fields": {
+            "powerunit_type": "6400 Cab"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 12,
+        "fields": {
+            "powerunit_type": "S660"
+        }
+    },
+    {
+        "model": "acrelog.spray",
+        "pk": 13,
+        "fields": {
+            "powerunit_type": "8R370X"
+        }
+    }
+]

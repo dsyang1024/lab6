@@ -1,0 +1,130 @@
+[
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 34,
+        "fields": {
+            "fertilizer_type": "ATS",
+            "fertilizer_rate": 7.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 138,
+        "fields": {
+            "fertilizer_type": "28% UAN ",
+            "fertilizer_rate": 50.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 143,
+        "fields": {
+            "fertilizer_type": "28% UAN ",
+            "fertilizer_rate": 13.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 144,
+        "fields": {
+            "fertilizer_type": "28% UAN ",
+            "fertilizer_rate": 60.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 164,
+        "fields": {
+            "fertilizer_type": "28% UAN ",
+            "fertilizer_rate": 20.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 176,
+        "fields": {
+            "fertilizer_type": "10-34-0",
+            "fertilizer_rate": 13.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 201,
+        "fields": {
+            "fertilizer_type": "28% UAN ",
+            "fertilizer_rate": 40.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 204,
+        "fields": {
+            "fertilizer_type": "28% UAN ",
+            "fertilizer_rate": 0.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 234,
+        "fields": {
+            "fertilizer_type": "10-34-0,28% UAN ,Other - refer to notes",
+            "fertilizer_rate": 0.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 237,
+        "fields": {
+            "fertilizer_type": "28% UAN ,ATS",
+            "fertilizer_rate": 44.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 249,
+        "fields": {
+            "fertilizer_type": "28% UAN ,ATS",
+            "fertilizer_rate": 40.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 394,
+        "fields": {
+            "fertilizer_type": "MAP,Potash (0-0-60)",
+            "fertilizer_rate": 0.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 403,
+        "fields": {
+            "fertilizer_type": "Potash (0-0-60)",
+            "fertilizer_rate": 0.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 405,
+        "fields": {
+            "fertilizer_type": "Potash (0-0-60),MAP",
+            "fertilizer_rate": 0.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 412,
+        "fields": {
+            "fertilizer_type": "Lime",
+            "fertilizer_rate": 0.0
+        }
+    },
+    {
+        "model": "acrelog.fertilizer",
+        "pk": 426,
+        "fields": {
+            "fertilizer_type": "MAP",
+            "fertilizer_rate": 0.0
+        }
+    }
+]

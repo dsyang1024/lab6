@@ -1,0 +1,154 @@
+[
+    {
+        "model": "acrelog.seed",
+        "pk": 31,
+        "fields": {
+            "seed_planted": "Soy - P31T64E",
+            "seed_rate": 140000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 33,
+        "fields": {
+            "seed_planted": "Soy - P31T64E",
+            "seed_rate": 14000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 38,
+        "fields": {
+            "seed_planted": "Corn - P0720AM",
+            "seed_rate": 33000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 49,
+        "fields": {
+            "seed_planted": "Soy - Becks 2830E3",
+            "seed_rate": 140000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 76,
+        "fields": {
+            "seed_planted": "Corn - DKC61-98",
+            "seed_rate": 33000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 91,
+        "fields": {
+            "seed_planted": "Soy - CP2822E",
+            "seed_rate": 140000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 108,
+        "fields": {
+            "seed_planted": "Corn - Becks 6374V2P",
+            "seed_rate": 36000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 117,
+        "fields": {
+            "seed_planted": "Soy - P18T91E",
+            "seed_rate": 140000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 150,
+        "fields": {
+            "seed_planted": "Other - refer to notes",
+            "seed_rate": 30000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 153,
+        "fields": {
+            "seed_planted": "Soy - CP2822E",
+            "seed_rate": 150000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 163,
+        "fields": {
+            "seed_planted": "Other - refer to notes",
+            "seed_rate": 0.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 169,
+        "fields": {
+            "seed_planted": "Soy - Becks 3510E3",
+            "seed_rate": 145000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 171,
+        "fields": {
+            "seed_planted": "Corn - P1108Q",
+            "seed_rate": 33000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 183,
+        "fields": {
+            "seed_planted": "Corn - Becks 5909AM",
+            "seed_rate": 33000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 196,
+        "fields": {
+            "seed_planted": "Other - refer to notes",
+            "seed_rate": 33000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 197,
+        "fields": {
+            "seed_planted": "Soy - P26T23E",
+            "seed_rate": 150000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 250,
+        "fields": {
+            "seed_planted": "Corn - DKC58-35",
+            "seed_rate": 33000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 251,
+        "fields": {
+            "seed_planted": "Corn - P0720AM",
+            "seed_rate": 34000.0
+        }
+    },
+    {
+        "model": "acrelog.seed",
+        "pk": 259,
+        "fields": {
+            "seed_planted": "Other - refer to notes",
+            "seed_rate": 32000.0
+        }
+    }
+]

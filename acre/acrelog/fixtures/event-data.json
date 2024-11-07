@@ -1,0 +1,3899 @@
+[
+    {
+        "model": "acrelog.event",
+        "pk": 1,
+        "fields": {
+            "date": "2022-04-24",
+            "event": 1,
+            "note": "2-4D round up burn down "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 2,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20oz ru, 11 24d"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 3,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 oz ru/ 11 oz 24d"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 4,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 oz ru. 11 oz 24d"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 5,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 oz ru 11 oz 24d"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 6,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 7,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 8,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 9,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 10,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 11,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 12,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 13,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 14,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 15,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": "JD FC & Rolling Basket "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 16,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 2,
+            "note": "JD FC & Rolling Basket "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 17,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.5 qt bicep, .75 qt atz, 12 oz instinct"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 18,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.5 qt bicep, .75 qt atz, 12 oz instinct.   Minus quinn on the East end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 19,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 qt atz, 12 oz instinct.  Minus guri plot East end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 20,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 qt atz, 12 oz instinct "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 21,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 qt atz, 12 oz instinct "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 22,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 qt atz, 12 oz instinct "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 23,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 qt atz, 12 oz instinct "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 24,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 atz, 12 oz instinct "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 25,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 qt atz, 12 oz instinct "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 26,
+        "fields": {
+            "date": "2022-04-27",
+            "event": 1,
+            "note": "20 gal 28, 1.75 qt bicep, .75 qt Atz, 12 oz instinct "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 27,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 28,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 29,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 30,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 31,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 32,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 33,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 34,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 35,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 36,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 37,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 38,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 3,
+            "note": "Lots of chickweed residue, fairly rough "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 39,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 40,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 41,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 1,
+            "note": "Round up 2-4D valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 42,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 1,
+            "note": "Round up 2-4D valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 43,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 1,
+            "note": "Round up 2-4D valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 44,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 1,
+            "note": "Round up 2-4D valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 45,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 1,
+            "note": "Round up 2-4D valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 46,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": "Planted on 4 degree angle"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 47,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 48,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 49,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 50,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 51,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 52,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 53,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 54,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 55,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 56,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 57,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 58,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 59,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": "Soy Pre. 3oz valor&32oz rd up"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 60,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 61,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": "Fc"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 62,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 63,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 64,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": "Valor XLT"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 65,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 66,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 67,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": "Valor XLT"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 68,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": "Valor XLT"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 69,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": "Valor XLT"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 70,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": "Valor XLT"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 71,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 1,
+            "note": "Valor XLT"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 72,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 73,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 74,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 75,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 76,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 77,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 78,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 79,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 80,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 81,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 82,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 83,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 84,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 85,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 86,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 87,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 88,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 89,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 90,
+        "fields": {
+            "date": "2022-04-29",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 91,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 92,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 93,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 94,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 95,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 96,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 97,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 98,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 99,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 100,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 101,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 102,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 103,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 104,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 105,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 106,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 107,
+        "fields": {
+            "date": "2022-04-28",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 108,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 109,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 110,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 111,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 112,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 113,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 114,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 115,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 116,
+        "fields": {
+            "date": "2022-04-30",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 117,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 118,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 119,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 120,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 121,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 122,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 123,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 124,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 125,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 126,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 127,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 128,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 1,
+            "note": "Sprayed west (partial) in op center under bicep "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 129,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 130,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 131,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 132,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": "Remaining area around plot 2 nd pass"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 133,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 134,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 135,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 136,
+        "fields": {
+            "date": "2022-05-02",
+            "event": 2,
+            "note": "West side"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 137,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": "Harmony on wheat plot "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 138,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": "Sprayed 50gal on ISO\u2019s both east and west ends"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 139,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": "Sprayed iso on east end 50 gal"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 140,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": "Sprayed 50 gal iso on east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 141,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 142,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 143,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 144,
+        "fields": {
+            "date": "2022-05-10",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 145,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 1,
+            "note": "Roundup @30 oz. "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 146,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 1,
+            "note": "3oz valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 147,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 148,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 149,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 150,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 3,
+            "note": "P 1099q "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 151,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 3,
+            "note": "P1099q"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 152,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": "Disced former grass edges around field ahead of planting"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 153,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 3,
+            "note": "West half"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 154,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 155,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 3,
+            "note": "West 65 acres"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 156,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 157,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 158,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 159,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 160,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 161,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 162,
+        "fields": {
+            "date": "2022-05-11",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 163,
+        "fields": {
+            "date": "2022-05-12",
+            "event": 3,
+            "note": "Blank for ma"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 164,
+        "fields": {
+            "date": "2022-05-12",
+            "event": 1,
+            "note": "Last 45 acres (East) degree extra "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 165,
+        "fields": {
+            "date": "2022-05-12",
+            "event": 1,
+            "note": "Degree extra "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 166,
+        "fields": {
+            "date": "2022-05-12",
+            "event": 2,
+            "note": "Tillage before marking rows....rough"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 167,
+        "fields": {
+            "date": "2022-05-12",
+            "event": 2,
+            "note": "3rd pass for wetland group"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 168,
+        "fields": {
+            "date": "2022-05-12",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 169,
+        "fields": {
+            "date": "2022-05-12",
+            "event": 3,
+            "note": "Ran out along road and finished with two bags of 2.6 Pioneer leftover from Casteel."
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 170,
+        "fields": {
+            "date": "2022-05-13",
+            "event": 1,
+            "note": "Valor"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 171,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 3,
+            "note": "1108q, dk5835, p0720"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 172,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": "Valor XLT usda plot "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 173,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": "Valor XLT on Ma Plot east end\r\nValor XLT west end fill\r\n"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 174,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 175,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 176,
+        "fields": {
+            "date": "2022-05-13",
+            "event": 3,
+            "note": "Planted with 6 row. 33,000 pop. 13 gal 10-34-0 planted west to east"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 177,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 178,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 179,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 180,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": "Bulk fill sprayed "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 181,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 182,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 183,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 184,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 185,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 186,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 187,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 188,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 189,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 190,
+        "fields": {
+            "date": "2022-05-14",
+            "event": 2,
+            "note": "About 1/3 done before rained out "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 191,
+        "fields": {
+            "date": "2022-05-24",
+            "event": 1,
+            "note": "Dual on soybean plots"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 192,
+        "fields": {
+            "date": "2022-05-24",
+            "event": 1,
+            "note": "Dual, atrazine, rd up to west 9 planter passes in Guri plot "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 193,
+        "fields": {
+            "date": "2022-05-24",
+            "event": 1,
+            "note": "11 oz rup/ 11 oz extendimax"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 194,
+        "fields": {
+            "date": "2022-05-24",
+            "event": 3,
+            "note": "Blank for ma "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 195,
+        "fields": {
+            "date": "2022-05-24",
+            "event": 1,
+            "note": "Dual and round up"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 196,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 197,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 198,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 199,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 3,
+            "note": "Dekalb provided by Brian young "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 200,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Roundup zidua solar panels "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 201,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Sidedress"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 202,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Sidedress"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 203,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 204,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Vyn plot"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 205,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Vyn plot"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 206,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 207,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Not complete. 2/3 done "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 208,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Valor 3oz @20 gal"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 209,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Valor 3oz @20"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 210,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Valor 3 oz @20 gal casteel/ma plot"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 211,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 1,
+            "note": "Valor 3oz @20 gal roundup east end "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 212,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "Iso west end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 213,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "Iso east end sorghum "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 214,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "West 2/3"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 215,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 216,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "Quinn iso east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 217,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 218,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 219,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 220,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 221,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 222,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "Torbert iso east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 223,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "Iso east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 224,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 225,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 226,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "Iso east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 227,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 228,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": "Iso east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 229,
+        "fields": {
+            "date": "2022-05-31",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 230,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 231,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 232,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": "80 ft"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 233,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": "Sprayed west half"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 234,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": "ATS 7gpa\r\n13 starter\r\n24 28%"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 235,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 236,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": "Iso east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 237,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": "Last 1/3 north side"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 238,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 239,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 240,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 241,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 242,
+        "fields": {
+            "date": "2022-06-01",
+            "event": 1,
+            "note": "1.5 qt bicep  7ac sorghum"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 243,
+        "fields": {
+            "date": "2022-06-02",
+            "event": 1,
+            "note": "22 ozRound up and 12 oz bicep"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 244,
+        "fields": {
+            "date": "2022-06-02",
+            "event": 1,
+            "note": "Valor 3oz ac "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 245,
+        "fields": {
+            "date": "2022-06-02",
+            "event": 1,
+            "note": "Valor 3 oz ac "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 246,
+        "fields": {
+            "date": "2022-06-02",
+            "event": 1,
+            "note": "Valor 3 oz ac on center fill in "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 247,
+        "fields": {
+            "date": "2022-06-02",
+            "event": 1,
+            "note": "Bordered field "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 248,
+        "fields": {
+            "date": "2022-06-02",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 249,
+        "fields": {
+            "date": "2022-06-02",
+            "event": 1,
+            "note": "200 East has strips with ats applied at 44 gpa, all the rest 40 gpa straight 28"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 250,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 3,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 251,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 3,
+            "note": "Replant (spot 29.5 ac)"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 252,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 1,
+            "note": "Plus zidua"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 253,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 1,
+            "note": "1/4 rate of prefix "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 254,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 1,
+            "note": "R up fusillade "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 255,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 1,
+            "note": "Round up fusillade "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 256,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 1,
+            "note": "R up fusillade "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 257,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 1,
+            "note": "R up fusillade "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 258,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 3,
+            "note": "Left over seed"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 259,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 3,
+            "note": "Left over seed"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 260,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 3,
+            "note": "Left over seed. Fill on west end "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 261,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 3,
+            "note": "Left over seed"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 262,
+        "fields": {
+            "date": "2022-06-04",
+            "event": 3,
+            "note": "Left over seed"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 263,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 264,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 265,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 266,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 267,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 268,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 269,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 270,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 271,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 272,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 273,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 274,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 275,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 276,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 277,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 278,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 279,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 280,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 281,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 282,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 283,
+        "fields": {
+            "date": "2022-06-03",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 284,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 285,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 286,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 287,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 288,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 289,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 290,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 291,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 292,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 293,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 294,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 295,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 296,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 297,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 298,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 299,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 300,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 301,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 302,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 303,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 304,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 305,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 306,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 307,
+        "fields": {
+            "date": "2022-06-07",
+            "event": 1,
+            "note": "Sprayed 154 acres sprayed east west started at north end working south"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 308,
+        "fields": {
+            "date": "2022-06-10",
+            "event": 1,
+            "note": "Roundup and Fusilade"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 309,
+        "fields": {
+            "date": "2022-06-09",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 310,
+        "fields": {
+            "date": "2022-06-09",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 311,
+        "fields": {
+            "date": "2022-06-09",
+            "event": 1,
+            "note": "North end rows, East pass ran out 3/4 way to the south end. Refer op center map"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 312,
+        "fields": {
+            "date": "2022-06-14",
+            "event": 1,
+            "note": "Incenerate/atz"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 313,
+        "fields": {
+            "date": "2022-06-16",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 314,
+        "fields": {
+            "date": "2022-06-17",
+            "event": 1,
+            "note": "28% 51 gallon\r\nATS 5.2 gallon\r\n"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 315,
+        "fields": {
+            "date": "2022-06-16",
+            "event": 1,
+            "note": "28% 58 gallon"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 316,
+        "fields": {
+            "date": "2022-06-16",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 317,
+        "fields": {
+            "date": "2022-06-20",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 318,
+        "fields": {
+            "date": "2022-06-22",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 319,
+        "fields": {
+            "date": "2022-06-22",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 320,
+        "fields": {
+            "date": "2022-06-22",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 321,
+        "fields": {
+            "date": "2022-06-22",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 322,
+        "fields": {
+            "date": "2022-06-27",
+            "event": 1,
+            "note": "Side dress with DTC bar. Applied 50 gal"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 323,
+        "fields": {
+            "date": "2022-07-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 324,
+        "fields": {
+            "date": "2022-07-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 325,
+        "fields": {
+            "date": "2022-07-01",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 326,
+        "fields": {
+            "date": "2022-07-06",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 327,
+        "fields": {
+            "date": "2022-07-06",
+            "event": 1,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 328,
+        "fields": {
+            "date": "2022-07-06",
+            "event": 1,
+            "note": "42oz rd up, section 3, zidua"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 329,
+        "fields": {
+            "date": "2022-07-07",
+            "event": 4,
+            "note": "Wheat harvest "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 330,
+        "fields": {
+            "date": "2022-07-07",
+            "event": 4,
+            "note": "Wheat harvest "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 331,
+        "fields": {
+            "date": "2022-07-07",
+            "event": 4,
+            "note": "Wheat harvest "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 332,
+        "fields": {
+            "date": "2022-07-11",
+            "event": 1,
+            "note": "Fusillade and zidua"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 333,
+        "fields": {
+            "date": "2022-07-11",
+            "event": 1,
+            "note": "Fusillade and zidua"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 334,
+        "fields": {
+            "date": "2022-07-11",
+            "event": 1,
+            "note": "73w fusillade and zidua "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 335,
+        "fields": {
+            "date": "2022-07-13",
+            "event": 1,
+            "note": "Liberty. On west 2/3 of field "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 336,
+        "fields": {
+            "date": "2022-07-29",
+            "event": 1,
+            "note": "One swipe to clean out boom in center"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 337,
+        "fields": {
+            "date": "2022-07-28",
+            "event": 1,
+            "note": "One pass to clean out after spraying "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 338,
+        "fields": {
+            "date": "2022-09-07",
+            "event": 1,
+            "note": "Manganese \r\n2 qts/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 339,
+        "fields": {
+            "date": "2022-09-21",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 340,
+        "fields": {
+            "date": "2022-09-22",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 341,
+        "fields": {
+            "date": "2022-09-26",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 342,
+        "fields": {
+            "date": "2022-09-26",
+            "event": 4,
+            "note": "Picked end rows and south 6.2 acres "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 343,
+        "fields": {
+            "date": "2022-09-26",
+            "event": 2,
+            "note": "Vt 2660"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 344,
+        "fields": {
+            "date": "2022-09-23",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 345,
+        "fields": {
+            "date": "2022-09-26",
+            "event": 4,
+            "note": "Soybeans "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 346,
+        "fields": {
+            "date": "2022-09-26",
+            "event": 4,
+            "note": "Soybeans"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 347,
+        "fields": {
+            "date": "2022-09-26",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 348,
+        "fields": {
+            "date": "2022-09-26",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 349,
+        "fields": {
+            "date": "2022-09-28",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 350,
+        "fields": {
+            "date": "2022-09-28",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 351,
+        "fields": {
+            "date": "2022-09-28",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 352,
+        "fields": {
+            "date": "2022-09-29",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 353,
+        "fields": {
+            "date": "2022-09-29",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 354,
+        "fields": {
+            "date": "2022-09-29",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 355,
+        "fields": {
+            "date": "2022-09-29",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 356,
+        "fields": {
+            "date": "2022-09-30",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 357,
+        "fields": {
+            "date": "2022-09-30",
+            "event": 2,
+            "note": "12 angle 2deg"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 358,
+        "fields": {
+            "date": "2022-09-30",
+            "event": 2,
+            "note": "6 angle, 2 degree. 7.8"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 359,
+        "fields": {
+            "date": "2022-10-03",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 360,
+        "fields": {
+            "date": "2022-10-03",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 361,
+        "fields": {
+            "date": "2022-10-03",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 362,
+        "fields": {
+            "date": "2022-10-04",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 363,
+        "fields": {
+            "date": "2022-10-05",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 364,
+        "fields": {
+            "date": "2022-10-05",
+            "event": 4,
+            "note": "East 20 ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 365,
+        "fields": {
+            "date": "2022-10-05",
+            "event": 4,
+            "note": "60 ac "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 366,
+        "fields": {
+            "date": "2022-10-08",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 367,
+        "fields": {
+            "date": "2022-10-10",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 368,
+        "fields": {
+            "date": "2022-10-10",
+            "event": 5,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 369,
+        "fields": {
+            "date": "2022-10-10",
+            "event": 5,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 370,
+        "fields": {
+            "date": "2022-10-14",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 371,
+        "fields": {
+            "date": "2022-10-14",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 372,
+        "fields": {
+            "date": "2022-10-14",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 373,
+        "fields": {
+            "date": "2022-10-16",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 374,
+        "fields": {
+            "date": "2022-10-20",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 375,
+        "fields": {
+            "date": "2022-10-24",
+            "event": 4,
+            "note": "Cleaned off"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 376,
+        "fields": {
+            "date": "2022-10-24",
+            "event": 4,
+            "note": "Cleaned off"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 377,
+        "fields": {
+            "date": "2022-10-24",
+            "event": 4,
+            "note": "Cleaned off"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 378,
+        "fields": {
+            "date": "2022-10-24",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 379,
+        "fields": {
+            "date": "2022-11-04",
+            "event": 4,
+            "note": "Cleaned off\r\n"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 380,
+        "fields": {
+            "date": "2022-11-04",
+            "event": 4,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 381,
+        "fields": {
+            "date": "2022-11-04",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 382,
+        "fields": {
+            "date": "2022-11-04",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 383,
+        "fields": {
+            "date": "2022-11-07",
+            "event": 4,
+            "note": "Picked corn around sorghum "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 384,
+        "fields": {
+            "date": "2022-11-07",
+            "event": 4,
+            "note": "Picked corn around sorghum iso"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 385,
+        "fields": {
+            "date": "2022-11-07",
+            "event": 4,
+            "note": "Picked corn iso on east end"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 386,
+        "fields": {
+            "date": "2022-11-07",
+            "event": 4,
+            "note": "Picked corn around sorghum iso"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 387,
+        "fields": {
+            "date": "2022-11-08",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 388,
+        "fields": {
+            "date": "2022-11-10",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 389,
+        "fields": {
+            "date": "2022-11-10",
+            "event": 2,
+            "note": "Corn plots "
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 390,
+        "fields": {
+            "date": "2022-11-23",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 391,
+        "fields": {
+            "date": "2022-11-23",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 392,
+        "fields": {
+            "date": "2022-11-23",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 393,
+        "fields": {
+            "date": "2022-12-07",
+            "event": 2,
+            "note": NaN
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 394,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF Map avg 204 lbs /ac\r\nVRF Potash avg 275 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 395,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF Map  242 lbs/ac\r\nPotash: 240 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 396,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 285 lbs.ac\r\nPotash: 240 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 397,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 300 lbs/ac\r\nPotash: 240 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 398,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 266 lbs/ac\r\nVRF Potash: 252 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 399,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 177 lbs/ac\r\nVRF Potash: 266 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 400,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 292 lb/ac\r\nVRF Potash: 240 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 401,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 180 lbs/ac\r\nVRF Potash: 131 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 402,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 268 lbs/ac\r\nVRF Potash: 78 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 403,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "Potash: 260 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 404,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "240 lbs/ ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 405,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 294 lb/ac\r\nVRF Potash: 170 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 406,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "240 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 407,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "260 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 408,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "240 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 409,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "MAP: 260 lb/ac\r\nPotash: 240 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 410,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF MAP: 270 lb/ac\r\nVRF Potash: 240 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 411,
+        "fields": {
+            "date": "2022-12-08",
+            "event": 1,
+            "note": "VRF Map: 255 lb/ac\r\nVRF Potash: 265 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 412,
+        "fields": {
+            "date": "2022-11-22",
+            "event": 1,
+            "note": "VRA Lime\r\nAvg: .9 tn/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 413,
+        "fields": {
+            "date": "2022-11-22",
+            "event": 1,
+            "note": "VRA Average rate: 1.2 tn/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 414,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP Avg: 255 lbs/ac\r\nVRF Potash Avg: 242 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 415,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 255 lbs/ac\r\nVRF Potash: 288 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 416,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 252 lbs/ac\r\nVRF Potash: 262 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 417,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 283 lbs/ac\r\nVRF Potash: 284 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 418,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 264 lb/ac\r\nVRF Potash: 155 lb/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 419,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 266 lbs/ac\r\nVRF Potash: 249 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 420,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "MAP: 250 lbs/ac\r\nVRF Potash: 265 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 421,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 257 lbs/ac\r\nVRF Potash: 253 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 422,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 264 lbs/ac\r\nVRF Potash: 180 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 423,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 212 lbs/ac\r\nVRF Potash: 249 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 424,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 142 lbs/ac\r\nVRF Potash: 268 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 425,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 223 lbs/ac\r\nVRF Potash: 85 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 426,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF: 185 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 427,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 284 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 428,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 279 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 429,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 153 lbs/ac\r\nVRF Potash: 133 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 430,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 139 lbs/ac\r\nVRF Potash: 121 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 431,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 154 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 432,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "VRF MAP: 115.8 lbs/ac"
+        }
+    },
+    {
+        "model": "acrelog.event",
+        "pk": 433,
+        "fields": {
+            "date": "2022-11-17",
+            "event": 1,
+            "note": "MAP: 240 lbs/ac\r\nPotash: 225 lbs/ac"
+        }
+    }
+]

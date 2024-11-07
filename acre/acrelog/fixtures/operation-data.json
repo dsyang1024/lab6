@@ -1,0 +1,37 @@
+[
+    {
+        "model": "acrelog.operation",
+        "pk": 1,
+        "fields": {
+            "operation": "Spread/Spray"
+        }
+    },
+    {
+        "model": "acrelog.operation",
+        "pk": 2,
+        "fields": {
+            "operation": "Tillage"
+        }
+    },
+    {
+        "model": "acrelog.operation",
+        "pk": 3,
+        "fields": {
+            "operation": "Plant"
+        }
+    },
+    {
+        "model": "acrelog.operation",
+        "pk": 4,
+        "fields": {
+            "operation": "Harvest"
+        }
+    },
+    {
+        "model": "acrelog.operation",
+        "pk": 5,
+        "fields": {
+            "operation": "Soil Sampled"
+        }
+    }
+]
