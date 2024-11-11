@@ -1,6 +1,7 @@
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
+    <title>ACRE MAP</title>
   <head>
     <!-- Other lines in your head section -->
 
@@ -21,14 +22,8 @@
     <!-- Other lines in your head section -->
   </head>
   <body>
-    <!-- Other lines in your body section -->
-        <!-- Other lines in your body -->
-        <!-- Add this line in to the body part of your html -->
-        <!-- You can change the width and height -->
         {{ data|json_script:"data_geojson" }}
         <p>ACRE MAP</p>
-        <div id="map" style="height: 500px; width: 100%"></div>
-      
-        <!-- Other lines in your body -->
+        <div id="map" style="height: 800px; width: 100%"></div>
   </body>
 </html>

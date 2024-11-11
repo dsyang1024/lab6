@@ -13,16 +13,8 @@ const map = L.map("map", { layers: [layer] });
 
 // We will tell the map to show the following location as a default.
 // Otherwise, the starting view will be somewhere in Atlantic ocean
-map.fitBounds([
-  [40.470060621973026, -86.99269856365936], // Somewhere in ACRE
-  // You can add more coordinates
-]);
 
-let marker = L.marker([40.470060621973026, -86.99269856365936])
-  .addTo(map)
-  .bindPopup("This is a popup");
 
-// New part. Add these lines below
 const data = JSON.parse(document.getElementById("data_geojson").textContent);
 
 let feature = L.geoJSON(data.features)
@@ -30,3 +22,12 @@ let feature = L.geoJSON(data.features)
     return layer.feature.properties.message;
   })
   .addTo(map);
+
+  map.fitBounds(feature.getBounds());
+
+
+// L.geoJSON(data_geojson, {
+//   style: function (feature) {
+//     return { color: "blue", weight: 2, opacity: 0.6 };
+//   }
+//   }).addTo(map);
