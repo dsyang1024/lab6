@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,17 +6,14 @@
 
     <!-- Add the section below -->
     <!-- First, add Leaflet stylesheet -->
-    <link
-      rel="stylesheet"
+    <link rel="stylesheet"
       type="text/css"
       href="https://unpkg.com/leaflet/dist/leaflet.css"
-      crossorigin=""
-    />
+      crossorigin=""/>
     <!-- Second, add Leaflet stylesheet -->
     <script
       src="https://unpkg.com/leaflet/dist/leaflet.js"
-      crossorigin=""
-    ></script>
+      crossorigin=""></script>
     <!-- Last, add our JavaScript file -->
     <script src="{% static 'leaflet-map.js' %}" defer></script>
     <!-- End of section you need to add -->
@@ -24,5 +22,13 @@
   </head>
   <body>
     <!-- Other lines in your body section -->
+        <!-- Other lines in your body -->
+        <!-- Add this line in to the body part of your html -->
+        <!-- You can change the width and height -->
+        {{ data|json_script:"data_geojson" }}
+        <p>ACRE MAP</p>
+        <div id="map" style="height: 500px; width: 100%"></div>
+      
+        <!-- Other lines in your body -->
   </body>
 </html>

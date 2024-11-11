@@ -6,6 +6,7 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('<int:location_id>/', views.fields, name='fields'),
     # path('<int:field_id>/<int:observation_id>/', views.observation, name='observation'),
+    path("map", views.render_map, name="map"), # add new one
 ]
 
 

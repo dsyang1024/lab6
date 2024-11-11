@@ -4,6 +4,8 @@ from .models import event, location, log, operation, operator, seed, fertilizer,
 from django.http import HttpResponse
 from django.http import Http404
 
+import geojson
+import shapely.geometry as geo
 
 
 def index(request):
@@ -21,3 +23,11 @@ def fields(request, location_id):
     context = {'field':field, 'logs': logs}
 
     return render(request, 'fields.html', context)
+
+
+
+def render_map(request):
+    point = geo.Point(([-86.99269856365936, 40.470060621973026]))
+    marker = geojson.Feature(geometry=point, properties={"message": "Hello World"})
+    data = geojson.FeatureCollection(marker)
+    return render(request, "map.html", {"data": data})
