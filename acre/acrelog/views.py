@@ -46,36 +46,45 @@ def render_map(request):
     for index, row in gdf.iterrows():
         # add each polygon to the geojson
         # search last operation at the field from the db.sqlite3 using the row['Field'] value from the log table
+        print('>>> searching :: ',row['Field'])
         try:
-            # using the row['Field'] value from the log table, get the primary key of the location
             last_loc = str(location.objects.get(location_name = row['Field']).id)
-            last_op = log.objects.filter(location = row['Field']).last().event.event
-            last_opday = log.objects.filter(location = row['Field']).last().event.date
-            # convert last_opday (datetime.datetime) to string
+            last_op = log.objects.filter(location = int(last_loc))
+            # order last_op by date column
+            last_op = last_op.order_by('date')
+            # get the last item from last_op
+            last_op = last_op.last()
+            # get the last operation date
+            last_opday = last_op.date
             last_opday = last_opday.strftime('%Y-%m-%d')
-            
-            # convert last operation to string
-            if last_op == '1':
-                last_op = 'Spray/Spreading'
-            elif last_op == '2':
-                last_op = 'Tillage'
-            elif last_op == '3':
-                last_op = 'Planting'
-            elif last_op == '4':
-                last_op = 'Havesting'
-            elif last_op == '5':
-                last_op = 'Soil Sampling'
+            # get the last operation name
+            last_op = last_op.event.pk
         except:
-            last_op = 'No operation found'
+            print('    *** Error::', row['Field'],' Not found')
+            lost_loc = '999'
+            last_op = 'No Data'
 
-        # print('>>> Last operation::', last_opday, ':', last_op)
+
+        # convert last operation to string
+        if last_op == 1:
+            last_op = 'Spray/Spreading'
+        elif last_op == 2:
+            last_op = 'Tillage'
+        elif last_op == 3:
+            last_op = 'Planting'
+        elif last_op == 4:
+            last_op = 'Havesting'
+        elif last_op == 5:
+            last_op = 'Soil Sampling'
+
+        print('>>> Last operation::', last_opday, ':', last_op)
         polygon = geo.Polygon(row['geometry'])
         marker = geojson.Feature(geometry=polygon,
                                  properties={"message":
                                              'Field :: ' + str(row['Field']) + '<br>'+
                                              'Crop :: ' + str(row['2022_Crop']) + '<br>'+
                                              'Last Operation :: ' + last_opday + ':' + last_op+'<br>'+
-                                             '<a class="text-white" href="/acrelog/'+last_loc+'/">'+row['Field']+'</a>'})
+                                             '<a class="text-white" href="/acrelog/'+last_loc+'/">Details</a>'})
         data['features'].append(marker)
 
     return render(request, "map.html", {"data": data})

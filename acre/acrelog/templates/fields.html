@@ -97,7 +97,7 @@
                     {% for log in logs %}
                     <tr>
                         <td>{{ log.date.date }}</td>
-                        <td>{{ log.event.event }}</td>
+                        <td>{{ log.event.pk }}</td>
                         <td>{{ log.operator.operator_name }}</td>
                         <td>{{ log.note }}</td>
                     </tr>

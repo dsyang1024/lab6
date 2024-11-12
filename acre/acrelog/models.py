@@ -79,4 +79,4 @@ class log(models.Model):
     note = models.TextField()
 
     def __str__(self):
-        return self.date.strftime('%Y-%m-%d') + ' : ' + self.location.location_name 
+        return self.date.strftime('%Y-%m-%d') + ' : ' + self.location.location_name
