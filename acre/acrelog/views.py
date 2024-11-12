@@ -81,10 +81,12 @@ def render_map(request):
         polygon = geo.Polygon(row['geometry'])
         marker = geojson.Feature(geometry=polygon,
                                  properties={"message":
+                                             '<p class="text-center">'+
                                              'Field :: ' + str(row['Field']) + '<br>'+
                                              'Crop :: ' + str(row['2022_Crop']) + '<br>'+
-                                             'Last Operation :: ' + last_opday + ':' + last_op+'<br>'+
-                                             '<a class="text-white" href="/acrelog/'+last_loc+'/">Details</a>'})
+                                             'Last Operation :: <strong>' + last_opday + ':' + last_op+'</strong><br>'+
+                                             '<a class="btn btn-outline-danger btn-sm" href="/acrelog/'+last_loc+'/">Details</a></p>'
+                                             })
         data['features'].append(marker)
 
     return render(request, "map.html", {"data": data})
